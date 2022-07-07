@@ -1,3 +1,5 @@
+package com.codejiwei.cache;
+
 import org.apache.flink.shaded.guava18.com.google.common.cache.CacheBuilder;
 import org.apache.flink.shaded.guava18.com.google.common.cache.CacheLoader;
 
