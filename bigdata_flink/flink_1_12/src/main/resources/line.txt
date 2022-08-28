@@ -1,0 +1,3 @@
+hello flink this is a test for word count
+hello flink
+hello bigdata
